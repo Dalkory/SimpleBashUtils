@@ -1,4 +1,4 @@
-# Simple Bash Utils
+# Simple Bash Utils. Язык програмирования - С.
 
 Разработка утилит Bash по работе с текстом: cat, grep.
 
